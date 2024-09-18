@@ -77,5 +77,4 @@
 - Cleaned and validated datasets ready for analysis and reporting.
 - A monitoring dashboard that visualizes data quality metrics in real-time in AWS services
 <img width="950" alt="Screenshot 2024-09-17 at 9 31 10 PM" src="https://github.com/user-attachments/assets/e1edd317-8d10-4a2f-b447-9062b82152da">
-<img width="950" alt="Screenshot 2024-09-17 at 11 10 36 PM" src="https://github.com/user-attachments/assets/7fcdf2b1-786f-41aa-a6e4-16aaba9630f3">
 
