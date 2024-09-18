@@ -98,12 +98,12 @@ Methodology:
 - 2-    Descriptive Statistics:
  Generate summary statistics for numerical features and frequency distributions for categorical features like resolutions
 - 3-    Data Visualization:
-- Create visualizations to illustrate key insights:
+- Create visualizations to illustrate key insights: 
 -  Bar Charts: Average resolution time by complaint type
-- 5-    Insights and Findings:
+- 4-    Insights and Findings:
 -  Summarize the findings based on data visualizations and statistical analyses, highlighting the trends and patterns .
-- 6-    Conclusion:
+- 5-    Conclusion:
 -  Discuss the implications of the findings
 - Tools and Technologies:
-- ·      Excel
+- ·      Python
 
