@@ -32,6 +32,8 @@
 - Visualizations and dashboards to present key insights clearly.
 - This descriptive analysis project aims to provide a comprehensive understanding of student complaints, enabling UCW to optimize its operations and enhance student satisfaction.
 - <img width="950" alt="Screenshot 2024-09-17 at 9 15 28 PM" src="https://github.com/user-attachments/assets/46c089d7-1b11-4501-8090-378f2a7f54cb"> 
+- <img width="950" alt="Screenshot 2024-09-17 at 11 11 11 PM" src="https://github.com/user-attachments/assets/bae47950-b3a0-475d-be8c-f39a98cb71c1">
+
  
 
 
