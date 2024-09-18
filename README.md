@@ -1,5 +1,5 @@
 # Projects
--Descriptive Analysis
+# Descriptive Analysis
 -Project Description: Descriptive Analysis of Student Complaints at UCW
 -Project Title: Understanding student complaints at UCW
 -Objective: The primary goal of this project is to conduct a descriptive analysis of complaints by students at UCW. Through this analysis, we aim to summarize key characteristics, identify trends, and generate insights that can improve the procedures at UCW that would lower the complaints from students and improve the response rate for complaints. 
