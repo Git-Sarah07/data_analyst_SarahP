@@ -50,30 +50,30 @@ o   Provide actionable recommendations based on the findings
 ·      
 
 - Methodology:
-- 1-    Current State Assessment:
+-  Current State Assessment:
 o   Conduct a thorough analysis of current data sources, workflows, and existing data quality challenges.
 o   Identify the key datasets that significantly impact business operations and decision-making.
-- 2-    Data Profiling:
+-   Data Profiling:
 o   Utilize data profiling tools to assess the quality of identified datasets, focusing on completeness, uniqueness, validity, consistency, and accuracy.
 o   Document findings to highlight areas requiring immediate attention.
-- 3-    Establish Data Quality Metrics:
+-    Establish Data Quality Metrics:
 o   Define clear data quality metrics and key performance indicators (KPIs) to evaluate and track data quality over time, such as error rates, duplicate records, and compliance with data standards.
-- 4-    Data Cleansing Processes:
-o   Develop and implement procedures for data cleansing, which may include:
+-    Data Cleansing Processes:
+   Develop and implement procedures for data cleansing, which may include:
 §  Removing duplicates and correcting errors.
 §  Standardizing data formats and values.
 §  Filling in missing values using appropriate imputation techniques.
-- 5-    Validation Rules and Procedures:
+-  Validation Rules and Procedures:
 o   Set up validation rules for new data entries to reduce the risk of poor-quality data being introduced into the system.
 o   Create data entry guidelines to promote consistency and accuracy.
-- 6-    Monitoring and Reporting:
+-  Monitoring and Reporting:
 o   Implement monitoring tools and dashboards that provide real-time data quality metrics and alerts for significant deviations.
 o   Schedule regular reports to review data quality trends and performance against established KPIs.
 
-- Tools and Technologies:
+-   Tools and Technologies:
 ·      AWS services including 
 		Data Glu, Cloudtrail, AWS KMS and Replication Rules
-- Deliverables:
+-   Deliverables:
 ·      Documentation of data quality metrics and KPIs being tracked.
 ·      Cleaned and validated datasets ready for analysis and reporting.
 ·      A monitoring dashboard that visualizes data quality metrics in real-time in AWS services
