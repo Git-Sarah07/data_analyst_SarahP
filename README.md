@@ -12,21 +12,18 @@
 .    Resolution Data: The date at which the complaint was resolved
 .    Comments:  The general comments on the complaints 
 - Methodology:
-- 1-    Data Collection and Preparation:
-o   Load the dataset using data analysis tools, Excel- csv format was used here 
-o   Perform data cleaning to address missing values, correct data types, and remove duplicates.
-- 2-    Descriptive Statistics:
-o   Calculate summary statistics for key variables, including:
-Complaint date and Complaint Resolution Date
-Student Complaint
-Status of complaint whether resolved or not.
-- 3-    Data Visualization:
-o   Create visual representations to illustrate findings:
-Data Analytical Platform
-- 5-    Insights and Findings:
-o   Summarize the insights derived from the analysis
-- 6-    Recommendations:
-o   Provide actionable recommendations based on the findings 
+    Data Collection and Preparation:
+    Load the dataset using data analysis tools, Excel- csv format was used here 
+    Perform data cleaning to address missing values, correct data types, and remove duplicates.
+- Descriptive Statistics:
+  Calculate summary statistics for key variables, including:
+    Complaint date and Complaint Resolution Date
+    Student Complaint
+    Status of complaint whether resolved or not.
+- Insights and Findings:
+ Summarize the insights derived from the analysis
+-  Recommendations:
+   Provide actionable recommendations based on the findings 
 - Tools and Technologies:
 ·       Excel for data analysis
 ·      AWS Athena
@@ -51,24 +48,24 @@ o   Provide actionable recommendations based on the findings
 
 - Methodology:
 -  Current State Assessment:
-o   Conduct a thorough analysis of current data sources, workflows, and existing data quality challenges.
-o   Identify the key datasets that significantly impact business operations and decision-making.
+   Conduct a thorough analysis of current data sources, workflows, and existing data quality challenges.
+   Identify the key datasets that significantly impact business operations and decision-making.
 -   Data Profiling:
-o   Utilize data profiling tools to assess the quality of identified datasets, focusing on completeness, uniqueness, validity, consistency, and accuracy.
-o   Document findings to highlight areas requiring immediate attention.
+  Utilize data profiling tools to assess the quality of identified datasets, focusing on completeness, uniqueness, validity, consistency, and accuracy.
+  Document findings to highlight areas requiring immediate attention.
 -    Establish Data Quality Metrics:
-o   Define clear data quality metrics and key performance indicators (KPIs) to evaluate and track data quality over time, such as error rates, duplicate records, and compliance with data standards.
+  Define clear data quality metrics and key performance indicators (KPIs) to evaluate and track data quality over time, such as error rates, duplicate records, and compliance with data standards.
 -    Data Cleansing Processes:
    Develop and implement procedures for data cleansing, which may include:
-§  Removing duplicates and correcting errors.
-§  Standardizing data formats and values.
-§  Filling in missing values using appropriate imputation techniques.
+  Removing duplicates and correcting errors.
+  Standardizing data formats and values.
+  Filling in missing values using appropriate imputation techniques.
 -  Validation Rules and Procedures:
-o   Set up validation rules for new data entries to reduce the risk of poor-quality data being introduced into the system.
-o   Create data entry guidelines to promote consistency and accuracy.
+  Set up validation rules for new data entries to reduce the risk of poor-quality data being introduced into the system.
+  Create data entry guidelines to promote consistency and accuracy.
 -  Monitoring and Reporting:
-o   Implement monitoring tools and dashboards that provide real-time data quality metrics and alerts for significant deviations.
-o   Schedule regular reports to review data quality trends and performance against established KPIs.
+  Implement monitoring tools and dashboards that provide real-time data quality metrics and alerts for significant deviations.
+  Schedule regular reports to review data quality trends and performance against established KPIs.
 
 -   Tools and Technologies:
 ·      AWS services including 
