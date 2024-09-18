@@ -28,8 +28,8 @@
 -  Excel for data analysis
 -  AWS Athena
 - Deliverables:
--      A detailed report summarizing the methods, findings, and recommendations.
--      Visualizations and dashboards to present key insights clearly.
+-  A detailed report summarizing the methods, findings, and recommendations.
+- Visualizations and dashboards to present key insights clearly.
 - This descriptive analysis project aims to provide a comprehensive understanding of student complaints, enabling UCW to optimize its operations and enhance student satisfaction.
 - <img width="950" alt="Screenshot 2024-09-17 at 9 15 28 PM" src="https://github.com/user-attachments/assets/46c089d7-1b11-4501-8090-378f2a7f54cb"> 
  
@@ -42,11 +42,9 @@
 # Project Title: Implementation of Data Quality Control Measures at University Canada West
 - Objective: The primary objective of this project is to establish a comprehensive Data Quality Control (DQC) framework at University Canada West (UCW). This framework will ensure the accuracy, completeness, consistency, and reliability of the organization's data, enhancing decision-making processes and overall business performance.
 - Scope: The project will focus on the following key areas:
-		Data Protection : Here we protect personal identifier information
-		Data Governance :Here we ensure Data Quality and Data Privacy 
-		Data Monitoring and Controlling : Here we observe data and take action if required to protect its integrity. 
-·      
-
+- Data Protection : Here we protect personal identifier information
+- Data Governance :Here we ensure Data Quality and Data Privacy 
+- Data Monitoring and Controlling : Here we observe data and take action if required to protect its integrity.      
 - Methodology:
 -  Current State Assessment:
    Conduct a thorough analysis of current data sources, workflows, and existing data quality challenges.
@@ -69,12 +67,12 @@
   Schedule regular reports to review data quality trends and performance against established KPIs.
 
 -   Tools and Technologies:
--      AWS services including
--      Data Glu, Cloudtrail, AWS KMS and Replication Rules
--   Deliverables:
--     Documentation of data quality metrics and KPIs being tracked.
--      Cleaned and validated datasets ready for analysis and reporting.
--      A monitoring dashboard that visualizes data quality metrics in real-time in AWS services
+- AWS services including
+- Data Glu, Cloudtrail, AWS KMS and Replication Rules
+- Deliverables:
+- Documentation of data quality metrics and KPIs being tracked.
+- Cleaned and validated datasets ready for analysis and reporting.
+- A monitoring dashboard that visualizes data quality metrics in real-time in AWS services
 <img width="950" alt="Screenshot 2024-09-17 at 9 31 10 PM" src="https://github.com/user-attachments/assets/e1edd317-8d10-4a2f-b447-9062b82152da">
 
 
