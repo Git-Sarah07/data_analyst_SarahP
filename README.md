@@ -107,7 +107,8 @@ Methodology:
 - Tools and Technologies:
 -  Python
 
-- <img width="634" alt="Screenshot 2024-09-17 at 11 41 36 PM" src="https://github.com/user-attachments/assets/731e824e-16d6-45e4-80e5-2888a024ca1f">
+-  <img width="634" alt="Screenshot 2024-09-17 at 11 41 36 PM" src="https://github.com/user-attachments/assets/731e824e-16d6-45e4-80e5-2888a024ca1f">
+
 
 
 
