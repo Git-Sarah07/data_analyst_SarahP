@@ -31,6 +31,7 @@
 ·      A detailed report summarizing the methods, findings, and recommendations.
 ·      Visualizations and dashboards to present key insights clearly.
 - This descriptive analysis project aims to provide a comprehensive understanding of student complaints, enabling UCW to optimize its operations and enhance student satisfaction.
+- <img width="950" alt="Screenshot 2024-09-17 at 9 15 28 PM" src="https://github.com/user-attachments/assets/46c089d7-1b11-4501-8090-378f2a7f54cb"> 
  
 
 
